@@ -174,13 +174,9 @@ void Snake::addString(const char text[2], int y, int x) {
 }
 
 int main() {
-    
-    std::cout << "Hello";
     initscr();
     start_color();
     curs_set(0);
     
     Snake snake;
-    
-    std::cout << "World!";
 }
