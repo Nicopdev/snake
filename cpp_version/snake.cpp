@@ -1,8 +1,8 @@
 //
 //  main.cpp
-//  line
+//  Snake
 //
-//  Created by Nicolò Padovan on 07/11/2020.
+//  Created by Nicopdev on 07/11/2020.
 //
 
 #include <iostream>
