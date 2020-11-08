@@ -180,25 +180,6 @@ void Snake::addString(const char text[2], int y, int x) {
     addstr(text);
 }
 
-class Player {
-public:
-    array<short, 2> currentPosition;
-    short direction = 0;
-    short h, w;
-    Player();
-    void updateWindow();
-};
-
-Player::Player() {
-    getmaxyx(stdscr, h, w);
-    
-}
-
-void Player::updateWindow() {
-    
-}
-
-
 int main() {
     
     initscr();
