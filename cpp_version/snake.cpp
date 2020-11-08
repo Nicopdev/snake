@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 #include <iostream>
 #include <ncurses.h>
 #include <time.h>
